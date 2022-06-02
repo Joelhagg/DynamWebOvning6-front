@@ -1,0 +1,23 @@
+#productsContainer {
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+
+#productInfo {
+
+
+    border: solid black 2px;
+}
+
+#choseProducts {
+
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* #hidden {
+    display: none;
+} */
